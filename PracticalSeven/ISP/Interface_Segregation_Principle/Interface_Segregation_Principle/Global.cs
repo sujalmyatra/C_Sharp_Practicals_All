@@ -1,0 +1,3 @@
+﻿global using Interface_Segregation_Principle.Models;
+global using Interface_Segregation_Principle.Interfaces;
+

@@ -1,0 +1,19 @@
+# Ignore Visual Studio working folder
+.vs/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific project files
+*.user
+*.suo
+
+# Ignore Visual Studio backup / temp files
+*.cache
+*.log
+*.tlog
+*.tmp
+
+# Ignore publish output
+**/PublishProfiles/

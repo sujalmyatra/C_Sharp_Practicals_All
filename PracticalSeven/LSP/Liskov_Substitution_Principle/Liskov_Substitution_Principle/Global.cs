@@ -1,0 +1,2 @@
+﻿global using Liskov_Substitution_Principle.Interfaces;
+global using Liskov_Substitution_Principle.Models;
