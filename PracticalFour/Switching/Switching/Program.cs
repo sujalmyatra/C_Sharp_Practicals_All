@@ -43,13 +43,13 @@ public class Program
                         Console.WriteLine($"Name :: {student.Name} : {student.CalculateAverageMarks()}");
                         break;
                     case (int)Options.MinMark:
-                        Console.WriteLine($"Name(Minimum) :: {student.Name} : {student.CalculateMin()}");
+                        Console.WriteLine($"Minimum :: {student.Name} : {student.CalculateMin()}");
                         break;
                     case (int)Options.MaximumMark:
-                        Console.WriteLine($"Name(Maximum) :: {student.Name} : {student.CalculateMax()}");
+                        Console.WriteLine($"Maximum :: {student.Name} : {student.CalculateMax()}");
                         break;
                     case (int)Options.Grade:
-                        Console.WriteLine($"Name(Grade) :: {student.Name} : {student.CalculateGrade(Student.AverageMarks)}");
+                        Console.WriteLine($"Grade :: {student.Name} : {student.CalculateGrade(Student.AverageMarks)}");
                         break;
                     case (int)Options.Exit:
                         keepRunning = false;

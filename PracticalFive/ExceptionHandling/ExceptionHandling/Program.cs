@@ -1,5 +1,4 @@
-﻿
-namespace ExceptionHandling;
+﻿namespace ExceptionHandling;
 
 public class Program
 {
