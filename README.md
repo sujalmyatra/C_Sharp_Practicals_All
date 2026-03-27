@@ -18,7 +18,7 @@
 ![practical3_3_i](./images/practical3_3_i.png)
 
 ### Polymorphism
-!practical3_1_p[](./images/practical3_1_p.png)
+![practical3_1_p](./images/practical3_1_p.png)
 
 ### Abstraction
 ![practical3_2_a](./images/practical3_2_a.png)
